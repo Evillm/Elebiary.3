@@ -1,0 +1,30 @@
+/* ملف CSS (styles.css) */
+body {
+    font-family: Arial, sans-serif;
+    text-align: right;
+    direction: rtl;
+    margin: 20px;
+}
+
+form {
+    margin-top: 10px;
+}
+
+form input {
+    margin: 5px;
+    padding: 5px;
+}
+
+form button {
+    padding: 5px 10px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
